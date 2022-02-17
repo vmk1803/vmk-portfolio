@@ -27,7 +27,7 @@ const projects = [
       "Jio Mart is online E-commerce website with wide vareity of items like Grocery, home needs and clothing for all gender groups.",
     stack: ["JavaScipt", "HTML", "CSS"],
     sourceCode: "https://github.com/vmk1803/Jiomart",
-    livePreview: "https://github.com",
+    livePreview: "loving-euler-653170.netlify.app/",
   },
   {
     name: "LyndaClone",
@@ -35,8 +35,9 @@ const projects = [
     description:
       "Lynda is a subsciption based web application to learn Tech Skills. Contains wide variety of courses divided and categorized into different sections.",
     stack: ["HTML", "JavaScript", "CSS"],
-    sourceCode: "https://github.com/vmk1803/Lyndaclone_Team_18",
-    livePreview: "https://github.com",
+    sourceCode: "https://github.com/vmk1803/LyndaCloneTeam18_U3",
+    livePreview:
+      "https://620641ea7e475d9219b99401--affectionate-leakey-0e07e7.netlify.app/",
   },
 ];
 
