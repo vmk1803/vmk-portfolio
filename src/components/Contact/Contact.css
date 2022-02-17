@@ -5,7 +5,7 @@
   width: 600px;
 }
 
-@media (min-width: 0px) and (max-width: 600px) {
+@media (min-width: 0px) and (max-width: 650px) {
   .matter {
     margin: auto;
     width: 300px;
