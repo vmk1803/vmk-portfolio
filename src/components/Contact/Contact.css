@@ -4,3 +4,11 @@
 .matter {
   width: 600px;
 }
+
+@media (min-width: 0px) and (max-width: 600px) {
+  .matter {
+    margin: auto;
+    width: 300px;
+    margin-bottom: 20px;
+  }
+}

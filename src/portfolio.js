@@ -57,6 +57,7 @@ const skills = [
   "MongoDB",
   "AWS",
   "NPM",
+  "Postman",
 ];
 
 const contact = {
