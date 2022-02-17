@@ -8,7 +8,7 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: "Murali Krishna",
   role: "Full-Stack Web Developer",
-  description: "",
+  description: "INNOVATION. CREATIVITY .ANALYSIS",
   resume:
     "https://drive.google.com/file/d/11ltpuqLrbtuj3r2CeNuzIV1imWvG2Bfg/view?usp=sharing",
   social: {
