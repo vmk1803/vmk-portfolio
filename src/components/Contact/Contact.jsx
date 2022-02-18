@@ -15,7 +15,7 @@ const Contact = () => {
         my best to respond back. 😊 The quickest way to reach out to me is via
         an email.
       </p>
-      <a href={`mailto:${contact.email}`}>
+      <a href={`mailto:${contact.email}`} target="_blan">
         <span type="button" className="btn btn--outline">
           Email me
         </span>

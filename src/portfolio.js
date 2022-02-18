@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: "https://rajshekhar26.github.io/cleanfolio",
+  homepage: "https://vmk1803.netlify.app",
   title: "VMK.",
 };
 
@@ -27,7 +27,7 @@ const projects = [
       "Jio Mart is online E-commerce website with wide vareity of items like Grocery, home needs and clothing for all gender groups.",
     stack: ["JavaScipt", "HTML", "CSS"],
     sourceCode: "https://github.com/vmk1803/Jiomart",
-    livePreview: "loving-euler-653170.netlify.app/",
+    livePreview: "https://loving-euler-653170.netlify.app",
   },
   {
     name: "LyndaClone",
@@ -44,21 +44,21 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "React",
-  "Redux",
-  "Material UI",
-  "Git",
-  "VS code",
-  "Express Js",
-  "Node Js",
-  "CLI Bash",
-  "MongoDB",
-  "AWS",
-  "NPM",
-  "Postman",
+  "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
+  "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg",
+  "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg",
+  "https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg",
+  "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg",
+  "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg",
+  "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
+  "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg",
+  "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg",
+  "https://the-guild.dev/blog-assets/nodejs-esm/nodejs_logo.png",
+  "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg",
+  "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg",
+  "https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg",
+  "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg",
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png",
 ];
 
 const contact = {
@@ -66,4 +66,11 @@ const contact = {
   email: "vmk1803@gmail.com",
 };
 
-export { header, about, projects, skills, contact };
+const intro = {
+  image_url:
+    "https://lh3.googleusercontent.com/whwwSuTaMh69xiiZpuuoJ2ArSvesN_YB6ibkg7aIPcrNPLeH_Pm6hM7cuS-stYGkoL5-EZ25rHX_bibIOv8k_4y6d33RbepLwPotUE2sA0VivmnnOMmV5KTsfOlZW1vSlzYbDe1nRl-9zvi03MtIi-pnVbyLtgGF1S3JUeuk6vwMeXKS5eg2gpTD-mDSo123akvrLE_w9MMhvUfoEp0ZVlfTFwqJKDjRKaRM27WhVFeOtijNWM8WR3mDFl1BTsjKn90cXdxg6K-uORSHkSlFec7jJodCa1PyUQpKI2rAl63AO3_CpnT4qKcS5XuNOsrrjd6ix2tVn8g2bpFgF66Bufpa33_hOfHM4fEM3NVM-zHeMJBip6BIbLHA1lOdmyMYpkhoAPQQv8-2Wz83-r_dwtcjorhPFStHElpINhkayY9ztnZTJLuQkYwYfdHZazeOd-ABraTT08weT1dV_LRQb8iaH7MNw8ZHCxkrlrBZyQvLrbwmdfFiL2aPATqE602FCk5g3cimZRLP6_evFtqyjsQ5F6nBMqCO7NaZylVbhdYBIodZNOuxTTT-_ygvKk9svhJoqkpeZv9Sjh9qr1pqwD6r4tnCVUyjIoZtSuRpFgaxtuIii4QdO3itnqDxa3--EIDSm-25o3vZPcd3m5LJ6ciQvS98ZWyCdB7uIsoJrrc1W7SqCS-CH2UleHCWyqLyQKOeDI5r0436gASo4e6vhyU=w804-h978-no?authuser=0",
+
+  desc: " Hello there, I am Software Developer with intuitive problem-solving skills and having specialization in MERN stack. I have a serious passion to build responsive and creative websites. Enthusiastic tolearn new technologies, and implement the knowledge in creating good projects. Look forward to joining a company where I will be able tocontribute towards individual and company growth.",
+};
+
+export { header, about, projects, skills, contact, intro };
