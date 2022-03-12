@@ -30,14 +30,23 @@ const projects = [
     livePreview: "https://loving-euler-653170.netlify.app",
   },
   {
-    name: "LyndaClone",
-    image_url: "https://miro.medium.com/max/1050/1*xq62yhMyV26VhuNTDMKL6w.png",
+    name: "Zostel",
+    image_url:
+      "https://camo.githubusercontent.com/dc30494e84148e2c171c55b6ca1a6f2e593b35f244931f228b46e6a2c39c4088/68747470733a2f2f692e696d6775722e636f6d2f426258587a4e762e706e67",
     description:
-      "Lynda is a subsciption based web application to learn Tech Skills. Contains wide variety of courses divided and categorized into different sections.",
-    stack: ["HTML", "JavaScript", "CSS"],
-    sourceCode: "https://github.com/vmk1803/LyndaCloneTeam18_U3",
-    livePreview:
-      "https://620641ea7e475d9219b99401--affectionate-leakey-0e07e7.netlify.app/",
+      "Zostel is one of the largest networks of hostels and homes in India. Books hotels and homes for your holiday destination",
+    stack: [
+      "HTML",
+      "JavaScript",
+      "CSS",
+      "React",
+      "Redux",
+      "MongoDB",
+      "NodeJS",
+      "ExpressJS",
+    ],
+    sourceCode: "https://github.com/vmk1803/zostel",
+    livePreview: "https://zostelclone.netlify.app/",
   },
 ];
 

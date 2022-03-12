@@ -20,6 +20,7 @@ const ProjectContainer = ({ project }) => (
     ></div>
 
     <p className="project__description">{project.description}</p>
+    <p className="techstack">Tech Stack :</p>
     {project.stack && (
       <ul className="project__stack">
         {project.stack.map((item) => (
