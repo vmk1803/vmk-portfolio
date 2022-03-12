@@ -34,7 +34,7 @@ const projects = [
     image_url:
       "https://camo.githubusercontent.com/dc30494e84148e2c171c55b6ca1a6f2e593b35f244931f228b46e6a2c39c4088/68747470733a2f2f692e696d6775722e636f6d2f426258587a4e762e706e67",
     description:
-      "Zostel is one of the largest networks of hostels and homes in India. Books hotels and homes for your holiday destination",
+      "Zostel is one of the largest networks of hostels and homes in India. Books hotels and homes for your holiday destination.",
     stack: [
       "HTML",
       "JavaScript",
