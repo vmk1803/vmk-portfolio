@@ -10,7 +10,7 @@ const about = {
   role: "Full-Stack Web Developer",
   description: "INNOVATION. CREATIVITY .ANALYSIS",
   resume:
-    "https://drive.google.com/file/d/11ltpuqLrbtuj3r2CeNuzIV1imWvG2Bfg/view?usp=sharing",
+    "https://drive.google.com/drive/u/0/folders/1Ye3HIuF9Vce9Dmcbd_BZM1i306UUWgTY",
   social: {
     linkedin: "https://www.linkedin.com/in/vasantha-murali-krishna-716496205/",
     github: "https://github.com/vmk1803",
